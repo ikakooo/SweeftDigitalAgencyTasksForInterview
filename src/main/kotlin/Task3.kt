@@ -6,7 +6,7 @@ object Task3 {
         var index = 1
         array.sort()
         array.indices.forEach {
-            if (index in array[it] until array[it+1]&&array[it]>0) return "${array[it]}" else if (array[it]>0)index=array[it]+1
+            if (index <array[it]&&array[it]>0) return "${index--}" else if (array[it]>0)index=array[it]+1
         }
         return "Null"
     }
