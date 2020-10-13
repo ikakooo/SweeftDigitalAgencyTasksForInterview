@@ -3,8 +3,6 @@ import java.util.*
 
 
 object Task4 {
-
-
         fun isProperly(S: String): Boolean {
             val stack = LinkedList<Char>()
             for (element in S) {
@@ -28,6 +26,4 @@ object Task4 {
             }
             return stack.isEmpty()
         }
-
-
 }
