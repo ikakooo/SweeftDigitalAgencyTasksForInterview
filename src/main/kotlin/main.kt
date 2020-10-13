@@ -40,5 +40,11 @@ fun main() {
     println(list)
     println(map)
     println(set)
+//////////////////////////////Task8/////////////////////////////////////
+    println("Task8")
+    println("ექსემელის გაპარსვა ნაჩვენებია ამ რეპოზიტორიაზე ->")
+    println("https://github.com/ikakooo/XMLParsing")
+
+
 
 }
