@@ -45,6 +45,9 @@ fun main() {
     println("Task8")
     println("ექსემელის გაპარსვა და დასეტვა ნაჩვენებია ამ რეპოზიტორიაზე ->")
     println("https://github.com/ikakooo/XMLParsing")
+    println("AppVideo:")
+    println("https://drive.google.com/file/d/1GiV3t15m3RQrfyDNuERysnROuXbxLtrl/view")
+
 
 
 
